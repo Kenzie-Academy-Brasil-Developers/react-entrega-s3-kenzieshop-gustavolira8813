@@ -1,0 +1,4 @@
+.subtotal_price {
+  display: flex;
+  justify-content: space-around;
+}
